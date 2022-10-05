@@ -1,0 +1,11 @@
+
+
+
+Admin Panel Creds:
+----------------------
+username : admin
+pwd : room
+
+db name : edir
+bd username : - 
+password : -
